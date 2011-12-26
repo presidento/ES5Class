@@ -1,0 +1,1 @@
+ES5Class brings real classes to an ECMAScript 5 environment.
